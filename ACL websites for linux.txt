@@ -1,0 +1,3 @@
+This website will get you cidr ips and we can range them with masscan as you see in the video
+
+https://www.countryipblocks.net/acl.php
